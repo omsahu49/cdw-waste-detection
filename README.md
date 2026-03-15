@@ -5,7 +5,9 @@
 [![GPU](https://img.shields.io/badge/GPU-Tesla%20T4-green)](https://kaggle.com)
 [![mAP50](https://img.shields.io/badge/mAP50-70.93%25-orange)](https://kaggle.com)
 
-A deep learning model to automatically detect and classify **Construction & Demolition (C&D) waste** from images using **YOLOv8** object detection.
+*By **Om Sahu** | BCA AI & Data Analytics | LNCT Group of Colleges, Bhopal*
+
+A deep learning model I built to automatically detect and classify **Construction & Demolition (C&D) waste** from images using **YOLOv8** object detection.
 
 ---
 
@@ -48,6 +50,8 @@ Construction and demolition sites generate massive amounts of waste including re
 ---
 
 ## 🗄️ Datasets Used
+
+I merged 3 public datasets to improve model accuracy:
 
 | Dataset | Images | Source |
 |---------|--------|--------|
@@ -123,11 +127,14 @@ cdw-waste-detection/
 
 ---
 
-## 🎓 Project Info
+## 🎓 About Me
 
-- **Type:** Final Year Engineering Project
-- **Domain:** Computer Vision / Deep Learning
-- **Application:** Smart Waste Management at Construction Sites
+**Om Sahu**
+- 🎓 BCA (AI & Data Analytics) — 1st Year
+- 🏫 LNCT Group of Colleges, Bhopal
+- 💼 Freelance AI/ML Developer
+- 🤖 Kaggle Competitor
+- 📍 Bhopal, Madhya Pradesh, India
 
 ---
 
@@ -137,4 +144,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Built with ❤️ using YOLOv8 and Kaggle GPU*
+*Built with ❤️ by Om Sahu using YOLOv8 and Kaggle GPU*
