@@ -146,4 +146,12 @@ This project is open source and available under the [MIT License](LICENSE).
 
 *Built with ❤️ by Om Sahu using YOLOv8 and Kaggle GPU*
 
-"Available for freelance projects — contact: [abc730244@gmail.com]"
+## 📬 About Me
+I'm Om Sahu, a BCA AI-DA student at LNCT.
+
+I build AI and ML models, and also take up freelance projects.
+
+Feel free to reach out if you're interested in working together.
+
+- LinkedIn: linkedin.com/in/omsahu-ai
+- Email: abc730244@gmail.com
