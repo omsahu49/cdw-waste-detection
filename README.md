@@ -135,7 +135,7 @@ cdw-waste-detection/
 - 💼 Freelance AI/ML Developer
 - 🤖 Kaggle Competitor
 - 📍 Bhopal, Madhya Pradesh, India
-- 
+
 I build AI and ML models, and also take up freelance projects.
 
 Feel free to reach out if you're interested in working together.
