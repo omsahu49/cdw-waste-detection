@@ -145,3 +145,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *Built with ❤️ by Om Sahu using YOLOv8 and Kaggle GPU*
+
+"Available for freelance projects — contact: [abc730244@gmail.com]"
