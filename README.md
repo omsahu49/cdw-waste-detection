@@ -141,7 +141,7 @@ I build AI and ML models, and also take up freelance projects.
 Feel free to reach out if you're interested in working together.
 
 - LinkedIn: linkedin.com/in/omsahu-ai
-- Email: abc730244@gmail.com
+- Email: omsahu.aiml@gmail.com
 ---
 
 ## 📜 License
